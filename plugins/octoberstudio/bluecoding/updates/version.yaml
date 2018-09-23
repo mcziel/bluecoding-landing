@@ -1,0 +1,5 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table octoberstudio_bluecoding_contacts'
+    - builder_table_create_octoberstudio_bluecoding_contacts.php

@@ -1,0 +1,15 @@
+plugin:
+    name: 'octoberstudio.bluecoding::lang.plugin.name'
+    description: 'octoberstudio.bluecoding::lang.plugin.description'
+    author: 'October Studio'
+    icon: oc-icon-adjust
+    homepage: ''
+permissions:
+    general:
+        tab: General
+        label: General
+navigation:
+    contacts:
+        label: Leads
+        url: octoberstudio/bluecoding/contacts
+        icon: icon-paper-plane

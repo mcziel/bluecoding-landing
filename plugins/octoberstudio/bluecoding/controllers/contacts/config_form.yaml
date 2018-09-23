@@ -1,0 +1,10 @@
+name: Contacts
+form: $/octoberstudio/bluecoding/models/contact/fields.yaml
+modelClass: OctoberStudio\Bluecoding\Models\Contact
+defaultRedirect: octoberstudio/bluecoding/contacts
+create:
+    redirect: 'octoberstudio/bluecoding/contacts/update/:id'
+    redirectClose: octoberstudio/bluecoding/contacts
+update:
+    redirect: octoberstudio/bluecoding/contacts
+    redirectClose: octoberstudio/bluecoding/contacts
